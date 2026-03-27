@@ -1,0 +1,14 @@
+C:\Робота\проєкти_c#\lab_4\MyProject\bin\Debug\net10.0\MyProject.exe
+C:\Робота\проєкти_c#\lab_4\MyProject\bin\Debug\net10.0\MyProject.deps.json
+C:\Робота\проєкти_c#\lab_4\MyProject\bin\Debug\net10.0\MyProject.runtimeconfig.json
+C:\Робота\проєкти_c#\lab_4\MyProject\bin\Debug\net10.0\MyProject.dll
+C:\Робота\проєкти_c#\lab_4\MyProject\bin\Debug\net10.0\MyProject.pdb
+C:\Робота\проєкти_c#\lab_4\MyProject\obj\Debug\net10.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Робота\проєкти_c#\lab_4\MyProject\obj\Debug\net10.0\MyProject.AssemblyInfoInputs.cache
+C:\Робота\проєкти_c#\lab_4\MyProject\obj\Debug\net10.0\MyProject.AssemblyInfo.cs
+C:\Робота\проєкти_c#\lab_4\MyProject\obj\Debug\net10.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Робота\проєкти_c#\lab_4\MyProject\obj\Debug\net10.0\MyProject.dll
+C:\Робота\проєкти_c#\lab_4\MyProject\obj\Debug\net10.0\refint\MyProject.dll
+C:\Робота\проєкти_c#\lab_4\MyProject\obj\Debug\net10.0\MyProject.pdb
+C:\Робота\проєкти_c#\lab_4\MyProject\obj\Debug\net10.0\MyProject.genruntimeconfig.cache
+C:\Робота\проєкти_c#\lab_4\MyProject\obj\Debug\net10.0\ref\MyProject.dll
